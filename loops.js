@@ -17,6 +17,8 @@ function whileLoop(number) {
   return "done";
 }
 
+
+//I do not understand the do while test at all and cheated and looked at the solution and still don't understand it
 function doWhileLoop(array) {
   var i = 0;
  
